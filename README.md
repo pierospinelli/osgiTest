@@ -1,0 +1,2 @@
+# osgiTest
+Test su OSGi
